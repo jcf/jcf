@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**jcf/jcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Long time lover of Physics and mathematics. Childhood programmer. Currently interested in knowledge graphs, distributed systems, cryptography, and deep learning.
 
-Here are some ideas to get you started:
+I like building products and businesses and gravitate towards tech leadership roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Things I appreciate when coding
+
+- keyboard.io Model 01
+- Linux
+- Emacs evil-mode
+- Structural editing
+- Functional programming (immutability, function composition, referential transparency)
+- Being explicit and declarative
+- Documentation and tests (be a considerate coder)
+
+#### Technologies
+
+- Clojure & JVM
+- Web/APIs (performance, SEO, e-commerce)
+- Auth{N,Z} having built both OAuth clients and servers
+- Datomic, PostgreSQL, Elasticsearch, DynamoDB, Redis
+- AWS, GCP, Azure, Terraform, K8s
+
+#### Random things you'll hear me say
+
+- Productivity over presence
+- Optimise for learning
+- Anything not on the board that needs to be?
+- Catch you in Slack

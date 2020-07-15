@@ -27,4 +27,5 @@ I like building products and businesses and gravitate towards tech leadership ro
 - Productivity over presence
 - Optimise for learning
 - Anything not on the board that needs to be?
+- Collaborate, deliver, reflect, improve
 - Catch you in Slack

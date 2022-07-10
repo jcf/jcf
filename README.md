@@ -6,9 +6,9 @@ I like building products and businesses and gravitate towards tech leadership ro
 
 #### Things I appreciate when coding
 
-- keyboard.io Model 01
-- Linux
-- Emacs evil-mode
+- Ortholinear, split keyboards
+- Linux & macOS
+- Emacs with evil-mode
 - Structural editing
 - Functional programming (immutability, function composition, referential transparency)
 - Being explicit and declarative
